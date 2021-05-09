@@ -2,7 +2,11 @@
 
 Quick capture is a tiny utility to create task from anywhere and anytime by just hitting the assigned global hot key!
 
+## Found a issue? report here https://github.com/somaraj/todoist-quick-capture/issues
+
 ![home-screen](https://user-images.githubusercontent.com/17797942/117584298-cada1f00-b129-11eb-93ca-bcbeedc3cbfa.png)
+
+
 
 ## Configuration
 
