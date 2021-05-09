@@ -1,6 +1,6 @@
 # Todoist Quick Capture [![Discord Invite](https://img.shields.io/discord/774923765402042389?label=chat&logo=discord&logoColor=%23fff&style=flat-square)](https://discord.gg/JvCZfWfheW)
 
-Quick capture is a tiny utility to create task from anywhere and anytime by just hitting the hot key (Command Or Control + /)
+Quick capture is a tiny utility to create task from anywhere and anytime by just hitting the assigned global hot key!
 
 ![home-screen](https://user-images.githubusercontent.com/17797942/117584298-cada1f00-b129-11eb-93ca-bcbeedc3cbfa.png)
 
